@@ -23,10 +23,9 @@ body {
 </head>
 
 <body>
-	<?php
 	<div class="header">
 		<h1>This is where our Inventory management app deployed</h1>
 		<p>Everything entered here validly willl be then put into database</p>
 	</div>
-	?>
+	
 </body>
